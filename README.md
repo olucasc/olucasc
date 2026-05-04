@@ -87,7 +87,6 @@ Atualmente curso <b>Marketing na UNICID</b> e estou em transição para a área 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
 <img 
-<img 
     align="left" 
     alt="Git" 
     title="Git"
