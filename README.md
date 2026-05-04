@@ -11,14 +11,14 @@ Tenho base técnica em TI pelo Senac, com experiência em C#, lógica de program
 Atualmente curso <b>Marketing na UNICID</b> e estou em transição para a área de desenvolvimento, construindo projetos que conectam tecnologia, criatividade e resultado.
 
 <p align="left">
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/olucasc?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/olucasc?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
