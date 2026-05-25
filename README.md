@@ -2,29 +2,6 @@
 
 **Desenvolvedor JavaScript em transição | ServiceNow**
 
-Videomaker com 10+ anos em marcas como Netflix, Itaú e Wella. Entendi produto, stakeholders e entrega. Agora construo com código.
-
-Base técnica em TI (Senac), experiência em C#, lógica e infraestrutura. Estou em transição ativa para desenvolvimento, focando em JavaScript e ServiceNow. Construindo em público.
-
-<p align="left">
-    <a href="https://github.com/olucasc?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/olucasc?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/olucasc?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/olucasc?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
----
-
 ### Stack Principal
 
 <img 
@@ -77,3 +54,52 @@ Base técnica em TI (Senac), experiência em C#, lógica e infraestrutura. Estou
 />
 
 <br>
+<br>
+
+<p align="left">
+    <a href="https://github.com/olucasc?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/olucasc?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/olucasc?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/olucasc?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
+
+---
+
+Retornando à área de desenvolvimento após 6 anos em operações técnicas e gestão de projetos em alta escala (Netflix, Itaú, Wella, Governo do Estado de SP). Expertise em resolução de problemas operacionais, fluxos de trabalho e comunicação multidisciplinar.
+
+Formado em TI pelo SENAC (2019) com experiência em arquitetura full-stack. Focando em JavaScript e ServiceNow. Certificações ServiceNow em andamento, conclusão prevista junho de 2026.
+
+Construindo em público.
+
+---
+
+## 📚 Aprendendo agora
+
+| Status | Certificação |
+|--------|--------------|
+| ✅ Concluído | Micro-Certification: Welcome to ServiceNow |
+| 🔄 Em andamento | ServiceNow Studio Fundamentals |
+| 🔄 Em andamento | Learning JavaScript on the Now Platform |
+| 🔄 Em andamento | Associate AI Application Developer |
+
+## 🚀 Em desenvolvimento
+
+### ITSM Ticket System
+
+Backend em Node.js com REST API focado em gestão de tickets. Database em andamento, frontend e vídeo explicativo depois.
+
+**Stack**: JavaScript | Node.js | Express | SQL
+
+---
+
+**Quer acompanhar a progressão desses projetos em tempo real?** [Siga @mago.exe](https://instagram.com/mago.exe)
