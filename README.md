@@ -1,34 +1,31 @@
 ## Lucas Carvalho
 
-**`Desenvolvedor em transição | JavaScript | ServiceNow`**
+**Desenvolvedor JavaScript em transição | ServiceNow**
 
-**`Prazer, Lucas Carvalho`**
+Videomaker com 10+ anos em marcas como Netflix, Itaú e Wella. Entendi produto, stakeholders e entrega. Agora construo com código.
 
-Por mais de <b>10 anos</b>, transformei ideias em vídeos para marcas como <b>Netflix, Itaú e Wella.</b> Hoje, estou fazendo o mesmo com código.
-
-Tenho base técnica em TI pelo Senac, com experiência em C#, lógica de programação e fundamentos de infraestrutura. Ao longo da minha carreira no audiovisual, desenvolvi habilidades que levo para o desenvolvimento, como <b>visão de produto, comunicação com stakeholders e foco em entrega.</b>
-
-Atualmente curso <b>Marketing na UNICID</b> e estou em transição para a área de desenvolvimento, construindo projetos que conectam tecnologia, criatividade e resultado.
+Base técnica em TI (Senac), experiência em C#, lógica e infraestrutura. Estou em transição ativa para desenvolvimento, focando em JavaScript e ServiceNow. Construindo em público.
 
 <p align="left">
     <a href="https://github.com/olucasc?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/olucasc?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/olucasc?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/olucasc?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
 
 ---
-### 🤖 Linguagens e Tecnologias
+
+### Stack Principal
 
 <img 
     align="left" 
@@ -64,27 +61,11 @@ Atualmente curso <b>Marketing na UNICID</b> e estou em transição para a área 
 />
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
+    alt="Node.js" 
+    title="Node.js"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
 <img 
     align="left" 
@@ -94,11 +75,5 @@ Atualmente curso <b>Marketing na UNICID</b> e estou em transição para a área 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+
+<br>
