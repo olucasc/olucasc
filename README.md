@@ -6,27 +6,27 @@
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+ align="left" 
+ alt="TypeScript"
+ title="TypeScript" 
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+ align="left" 
+ alt="C#"
+ title="C#" 
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
 />
 <img 
     align="left" 
@@ -77,7 +77,7 @@
 
 Retornando à área de desenvolvimento após 6 anos em operações técnicas e gestão de projetos em alta escala (Netflix, Itaú, Wella, Governo do Estado de SP). Expertise em resolução de problemas operacionais, fluxos de trabalho e comunicação multidisciplinar.
 
-Formado em TI pelo SENAC (2019) com experiência em arquitetura full-stack. Focando em JavaScript e ServiceNow. Certificações ServiceNow em andamento, conclusão prevista junho de 2026.
+Formado em TI pelo SENAC (2019) com experiência em arquitetura full-stack. Focando em JavaScript/TypeScript e ServiceNow. Certificações ServiceNow em andamento, conclusão prevista junho-julho de 2026.
 
 Construindo em público.
 
@@ -92,7 +92,7 @@ Construindo em público.
 | 🔄 Em andamento | Learning JavaScript on the Now Platform |
 | 🔄 Em andamento | Associate AI Application Developer |
 
-## 🚀 Em desenvolvimento
+## 🚀 Projetos em desenvolvimento
 
 ### ITSM Ticket System
 
@@ -102,4 +102,4 @@ Backend em Node.js com REST API focado em gestão de tickets. Database em andame
 
 ---
 
-**Quer acompanhar a progressão desses projetos em tempo real?** [Siga @mago.exe](https://instagram.com/mago.exe)
+**Quer acompanhar a progressão desses projetos em tempo real?** [Siga @mago.exe](https://instagram.com/omago.exe)
