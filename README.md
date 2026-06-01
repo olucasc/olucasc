@@ -88,8 +88,9 @@ Construindo em público.
 | Status | Certificação |
 |--------|--------------|
 | ✅ Concluído | Micro-Certification: Welcome to ServiceNow |
-| 🔄 Em andamento | ServiceNow Studio Fundamentals |
+| ✅ Concluído | ServiceNow Studio Fundamentals |
 | 🔄 Em andamento | Learning JavaScript on the Now Platform |
+| 🔄 Em andamento | Scripting in ServiceNow Fundamentals |
 | 🔄 Em andamento | Associate AI Application Developer |
 
 ## 🚀 Projetos em desenvolvimento
@@ -98,7 +99,7 @@ Construindo em público.
 
 Backend em Node.js com REST API focado em gestão de tickets. Database em andamento, frontend e vídeo explicativo depois.
 
-**Stack**: JavaScript | Node.js | Express | SQL
+**Stack**: JavaScript → TypeScript | Node.js | Express | SQL
 
 ---
 
