@@ -89,8 +89,8 @@ Construindo em público.
 |--------|--------------|
 | ✅ Concluído | Micro-Certification: Welcome to ServiceNow |
 | ✅ Concluído | ServiceNow Studio Fundamentals |
-| 🔄 Em andamento | Learning JavaScript on the Now Platform |
-| 🔄 Em andamento | Scripting in ServiceNow Fundamentals |
+| ✅ Concluído | Learning JavaScript on the Now Platform |
+| ✅ Concluído | Scripting in ServiceNow Fundamentals |
 | 🔄 Em andamento | Associate AI Application Developer |
 
 ## 🚀 Projetos em desenvolvimento
